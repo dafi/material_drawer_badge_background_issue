@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_selected="false" android:drawable="@drawable/drawer_item_counter_bg_default" />
+    <item android:state_selected="true" android:drawable="@drawable/drawer_item_counter_bg_selected" />
+
+</selector>
